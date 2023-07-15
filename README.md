@@ -12,6 +12,7 @@ https://github.com/disan3000/SSEMUYOBE-CHARLES-DISAN.git
 https://github.com/anthonymweb/mwebaza.git
 
  Dombo Trevor- dating app
+https://github.com/kamshii003/trever.git
 
 
  Muhumuza Jonathan- recipe optimization
