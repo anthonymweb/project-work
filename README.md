@@ -39,6 +39,11 @@ The dating app aims to improve communication, boost confidence, and match user p
 
 
  Osborne Nimaro – Outreach Program
+https://github.com/o-maro/osborne-nimaro.git
+
+Project description
+The algorithm aims to develop an outreach program that supports underprivileged students by identifying and providing necessary educational resources. It consists of three sub-solutions: Student Assessment, Resource Allocation, and Monitoring and Evaluation. The algorithm assesses students' academic performance, determines resource requirements, allocates resources, tracks progress, and evaluates program effectiveness. It uses variables like student name, subjects, academic performance, resource requirements, available resources, allocated resources, student needs, progress, program effectiveness, and baseline performance.
+
 
 
  NAMAYENGO MICKLYNN –E-commerce
